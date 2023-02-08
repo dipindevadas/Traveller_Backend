@@ -1,0 +1,187 @@
+[
+      { 
+        "id": 1,
+      "categoryId":2,
+       "packageName": "Malibu, California",
+       "days":3,
+       "person":2,
+       "description":"Home of the Covehead Harbour Lighthouse",
+       "rating":4.4,
+       "price":12000,
+       "isAvailable":true,
+       "productImage":"https://i.postimg.cc/s2NV1fN7/licensed-image.jpg"
+
+     },
+     
+        { "id": 2,
+        "categoryId":1,
+         "packageName": "San Francisco",
+         "days":3,
+         "person":2,
+         "description":"Home of the Covehead Harbour Lighthouse",
+         "rating":4.6,
+         "price":60000,
+         "isAvailable":true,
+         "productImage":"https://resources.thomascook.in/images/holidays/staticPage/ThingsToDo/London850.jpg"
+  
+       },
+       { "id": 3,
+       "categoryId":3,
+        "packageName": "New Delhi",
+        "days":3,
+        "person":2,
+        "description":"Home of the Covehead Harbour Lighthouse",
+        "rating":4.1,
+        "price":120000,
+        "isAvailable":true,
+        "productImage":"https://i.postimg.cc/28YzSJX2/0-M74x120009awzw2q25-B0-Q60-jpg.webp"
+ 
+      },
+      { "id": 4,
+      "categoryId":1,
+       "packageName": "Washington DC",
+       "days":5,
+       "person":4,
+       "description":"Home of the Covehead Harbour Lighthouse",
+       "rating":4.7,
+       "price":90000,
+       "isAvailable":true,
+       "productImage":"https://i.dailymail.co.uk/1s/2019/10/22/08/19793420-7580041-The_best_places_to_visit_in_2020_have_been_named_by_Lonely_Plane-a-1_1571730047365.jpg"
+
+     },
+     { "id": 5,
+     "categoryId":4,
+      "packageName": "Stanhope Beach",
+      "days":3,
+      "person":2,
+      "description":"Home of the Covehead Harbour Lighthouse",
+      "rating":4.4,
+      "price":12000,
+      "isAvailable":true,
+      "productImage":"https://i.postimg.cc/s2NV1fN7/licensed-image.jpg"
+
+    },
+    { "id": 6,
+    "categoryId":3,
+     "packageName": "Taj Mahal",
+     "days":3,
+     "person":2,
+     "description":"Home of the Covehead Harbour Lighthouse",
+     "rating":4.4,
+     "price":12000,
+     "isAvailable":true,
+     "productImage":"https://i.postimg.cc/cJBRPPj2/INDIA.jpg"
+
+   },
+   { "id": 7,
+   "categoryId":2,
+    "packageName": "Grand Canyon",
+    "days":2,
+    "person":3,
+    "description":"Home of the Covehead Harbour Lighthouse",
+    "rating":4.2,
+    "price":"$2700",
+    "isAvailable":true,
+    "productImage":"https://i.postimg.cc/XvyyfmKt/24b349e3-7164-48e9-a55c-67db376e0e0f-aa89988589.jpg"
+
+  },
+  { "id": 8,
+  "categoryId":4,
+   "packageName": "Stanhope Beach",
+   "days":3,
+   "person":2,
+   "description":"Home of the Covehead Harbour Lighthouse",
+   "rating":4.4,
+   "price":12000,
+   "isAvailable":true,
+   "productImage":"https://i.postimg.cc/44BVTrPR/istockphoto-1283968245-170667a.jpg"
+
+ },
+ { "id": 9,
+ "categoryId":3,
+  "packageName": "Stanhope Beach",
+  "days":3,
+  "person":2,
+  "description":"Home of the Covehead Harbour Lighthouse",
+  "rating":4.4,
+  "price":12000,
+  "isAvailable":true,
+  "productImage":"https://i.postimg.cc/13MS3r8T/photo-1505731324189-3d0afbeafcbf.jpg"
+
+},
+{ "id": 10,
+"categoryId":2,
+ "packageName": "Yosemite National Park",
+ "days":2,
+ "person":3,
+ "description":"Home of the Covehead Harbour Lighthouse",
+ "rating":4.1,
+ "price":55000,
+ "isAvailable":true,
+ "productImage":"https://i.postimg.cc/s2NV1fN7/licensed-image.jpg"
+
+},
+{ "id": 11,
+"categoryId":1,
+ "packageName": "Stanhope Beach",
+ "days":3,
+ "person":2,
+ "description":"Home of the Covehead Harbour Lighthouse",
+ "rating":4.4,
+ "price":12000,
+ "isAvailable":true,
+ "productImage":"https://www.holidify.com/images/bgImages/LONDON.jpg"
+
+},
+{ "id": 12,
+"categoryId":3,
+ "packageName": "Stanhope Beach",
+ "days":3,
+ "person":2,
+ "description":"Home of the Covehead Harbour Lighthouse",
+ "rating":4.4,
+ "price":12000,
+ "isAvailable":true,
+ "productImage":"https://i.postimg.cc/s2NV1fN7/licensed-image.jpg"
+
+},
+{ "id": 13,
+"categoryId":2,
+ "packageName": "Stanhope Beach",
+ "days":3,
+ "person":3,
+ "description":"Home of the Covehead Harbour Lighthouse",
+ "rating":4.6,
+ "price":89000,
+ "isAvailable":true,
+ "productImage":"https://i.postimg.cc/s2NV1fN7/licensed-image.jpg"
+
+},
+{ "id": 14,
+"categoryId":4,
+ "packageName": "Stanhope Beach",
+ "days":3,
+ "person":2,
+ "description":"Home of the Covehead Harbour Lighthouse",
+ "rating":4.4,
+ "price":12000,
+ "isAvailable":true,
+ "productImage":"https://images.thrillophilia.com/image/upload/s--bqX0AXW1--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/179/384/original/1573885213_shutterstock_1169919292.jpg.jpg"
+
+},
+{ "id": 14,
+"categoryId":2,
+ "packageName": "Stanhope Beach",
+ "days":3,
+ "person":2,
+ "description":"Home of the Covehead Harbour Lighthouse",
+ "rating":4.4,
+ "price":24000,
+ "isAvailable":true,
+ "productImage":"https://www.holidify.com/images/bgImages/LONDON.jpg"
+
+}
+
+      
+    ]
+    
